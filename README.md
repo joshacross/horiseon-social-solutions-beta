@@ -1,7 +1,7 @@
 # HORISEON Social Solution Services, inc.
 <h2>Description</h2>
 <p>
-    The following website is an on-the-job ticket that required me, as a developer, to refract existing code by modifying and colidating the existing HTML and CSS language and structure, allowing for a more SEO-friendly and accessible website.
+    The following website is an on-the-job ticket that required me, as a developer, to refract existing code by modifying and consolidating the existing HTML and CSS language and structure, allowing for a more SEO-friendly and accessible website.
 </p>
 <p>
     Providing web accessibility is extremely important for businesses. Not only does it assist people with disabilities accessing a companies website, it allows for favorable and optimized positioning on search engines such as Google, Bing, and Yahoo.
