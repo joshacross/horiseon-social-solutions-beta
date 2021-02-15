@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# HORISEON Social Solution Services, inc.
 <h2>Description</h2>
 <p>
     The following website is an on-the-job ticket that required me, as a developer, to refract existing code by modifying and colidating the existing HTML and CSS language and structure, allowing for a more SEO-friendly and accessible website.
@@ -10,7 +10,7 @@
 </p>
 <ul>
     <li>
-        Updated the HTML semantic language by replacing division elements <pre>"<div>"</pre> with HTML5 elements <pre>"<header>,<section>,<article>, and <footer>"</pre>
+        Updated the HTML semantic language by replacing division elements <code>"<div>"</code> with HTML5 elements <code>"<header>,<section>,<article>, and <footer>"</code>
     </li>
     <li>
         Insured all links are properly formatted
