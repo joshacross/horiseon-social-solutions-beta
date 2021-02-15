@@ -10,7 +10,10 @@
 </p>
 <ul>
     <li>
-        Updated the HTML semantic language by replacing division elements ```<div>``` with HTML5 elements ```<header>, <section>,<article>, and <footer>```
+        Updated the HTML semantic language by replacing division elements
+        ```<div>```
+        with HTML5 elements
+        ```<header> <section> <article> <footer>```
     </li>
     <li>
         Insured all links are properly formatted
