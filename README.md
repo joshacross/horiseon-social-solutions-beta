@@ -23,7 +23,7 @@
     </li>
 </ul>
 <h2>Reference Link</h2>
-<p>Reference Link: <a href="https://joshacross.github.io/urban-octo-telegram/">HORISEON Social Solution Services, inc.</a>
+<p>Reference Link: <a href="https://joshacross.github.io/horiseon-social-solutions-beta/">HORISEON Social Solution Services, inc.</a>
 
 <h2>Referenced Images</h2>
 <img src="./assets/images/joshacross.github.io_horiseon-social-solutions-beta_.png />
