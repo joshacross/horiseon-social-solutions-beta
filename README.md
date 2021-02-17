@@ -17,7 +17,7 @@ To increase long-term sustainability, accessilibity, and Search Engine Optimizat
 * updated header and content with flexbox to all the content to be more responsive on various screen sizes
 
 ## Website
-"https://joshacross.github.io/horiseon-social-solutions-beta/
+https://joshacross.github.io/horiseon-social-solutions-beta/
 
 ### Referenced Images
 <img src="./assets/images/joshacross.github.io_horiseon-social-solutions-beta_.png" />
