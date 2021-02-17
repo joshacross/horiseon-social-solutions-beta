@@ -41,23 +41,18 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
 nav {
     font-size: 20px;
+    text-align: center;
 }
 
 nav li {
-    display: inline-block;
+    display: inline;
     padding: 20px;
-}
-
-@media screen and (max-width: 1250px) {
-    header {
-        justify-content: center;
-    }
 }
 
 /*Heading Styles End*/
