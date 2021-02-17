@@ -94,12 +94,13 @@ nav ul li {
 }
 
 .content-info {
-    margin: 30px;
+    margin: 15px;
     display: flex;
     flex-direction: column;
 }
 
 .content-image {
+    margin: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
