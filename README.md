@@ -6,7 +6,7 @@ Providing web accessibility is extremely important for businesses. Not only does
 
 To increase long-term sustainability, accessilibity, and Search Engine Optimization:
 
-* Updated the HTML semantic language by replacing division elements <code>&#60div&#62</code> with HTML5 elements <code>&#60header&#62</code> <code>&#60footer&#62</code> <code>&#60section&#62</code> and <code>&#60article&#62</code>
+* Updated the HTML semantic language by replacing division elements <code><div></code> with HTML5 elements <code><header></code> <code><footer></code> <code><section></code> and <code><article></code>
 
 * Insured all links are properly formatted
 
